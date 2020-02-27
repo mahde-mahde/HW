@@ -7,6 +7,12 @@
     <property name="result.javaclasses.dir" location="${gogo.dir}/classes"/>
     <property name="result.testclasses.dir" location="${gogo.dir}/testclasses"/>
 
+<dependency>
+	<groupId>junit</groupId>
+	<artifactId>junit</artifactId>
+	<version>4.12</version>
+</dependency>
+
 
 
 
