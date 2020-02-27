@@ -1,0 +1,13 @@
+<project  default="compile">
+	
+	<property name="src.java.dir" location="./src/pack/hello"/>
+	<property  name="gogo.dir" location="./target"/>
+	<property name="gogo.dir" location="${gogo.dir} "/>
+	<target name="compile">
+	<mkdir dir="${gogo.dir}"/>
+	<javac srcdir="${src.java.dir}" destdir="${gogo.dir}" debug="true" includeantruntime="false" >
+	
+	</javac>
+	</target>
+
+</project>
