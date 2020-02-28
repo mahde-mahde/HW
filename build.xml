@@ -14,6 +14,7 @@
 
 
     <path id="NecessaryLibraries">
+        <pathelement location="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
         <pathelement location="./HW-uploadToGithub/lib/junit-4.12.jar"/>
         <!--matcher-->
         <pathelement location="./HW-uploadToGithub/lib/hamcrest-core-1.3.jar"/>
