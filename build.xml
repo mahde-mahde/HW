@@ -14,9 +14,9 @@
 
 
     <path id="NecessaryLibraries">
-        <pathelement location="C:/Users/user/Downloads/lib/junit-4.12.jar"/>
+        <pathelement location="./HW-uploadToGithub/lib/junit-4.12.jar"/>
         <!--matcher-->
-        <pathelement location="C:/Users/user/Downloads/lib/hamcrest-core-1.3.jar"/>
+        <pathelement location="./HW-uploadToGithub/lib/hamcrest-core-1.3.jar"/>
         <!--<pathelement location="./UsedLibraries/jacocoant.jar"/>-->
     </path>
 
