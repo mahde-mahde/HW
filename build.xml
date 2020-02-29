@@ -1,8 +1,8 @@
 <project default="compile">
 
-
+  <property name="src.test.dir" location=".C:/Program Files (x86)/Jenkins/workspace/HELLO/HW-uploadToGithub/src/t"/>
     <property name="src.java.dir" location="C:/Program Files (x86)/Jenkins/workspace/HELLO/HW-uploadToGithub/src/pack"/>
-    <property name="src.test.dir" location=".C:/Program Files (x86)/Jenkins/workspace/HELLO/HW-uploadToGithub/src/t"/>
+  
     <property name="result.dir" location="./target"/>
     <property name="result.javaclasses.dir" location="${gogo.dir}/classes"/>
     <property name="result.testclasses.dir" location="${gogo.dir}/testclasses"/>
