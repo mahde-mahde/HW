@@ -1,6 +1,6 @@
 <project default="compile">
 
-  <property name="src.test.dir" location=".C:/Program Files (x86)/Jenkins/workspace/HELLO/HW-uploadToGithub/src/t"/>
+ <property name="src.test.dir" location="./HW-uploadToGithub/src/t/test.java"/>
     <property name="src.java.dir" location="C:/Program Files (x86)/Jenkins/workspace/HELLO/HW-uploadToGithub/src/pack"/>
   
     <property name="result.dir" location="./target"/>
